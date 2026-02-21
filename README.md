@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @saidius
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, Python
 - 💞️ I’m looking to collaborate on creating mods for games and launchers
 - 📫 How to contact me 
 
 - My telegram
--   t.me/m1zhark
+-   t.me/saidius
+-   t.me/m1zhark - my assistant
     My VK
 -      https://vk.com/reggvenny
    My Discord 
